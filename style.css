@@ -4,6 +4,10 @@
     --red:#e2aaf0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     font-family: 'Ubuntu', sans-serif;
     margin: 0;
@@ -201,6 +205,8 @@ header .navbar a:hover{
     position: absolute;
     top: -100%;
     left: 0;
+    transition: all .3s linear;
+    z-index: 1;
 } 
 
 .speciality .box-container .box .content {
@@ -211,8 +217,8 @@ header .navbar a:hover{
 
 .speciality .box-container .box .content img {
     margin: 1.5rem 0;
-    height: 50%;
     width: 50%;
+    height: 15rem;
 }
 
 .speciality .box-container .box .content h3 {
@@ -347,6 +353,7 @@ header .navbar a:hover{
     padding: 2rem;
     padding-top: 5rem;
     text-align: center;
+    transition: all .3s linear;
 }
 
 .gallery .box-container .box .content h3 {
