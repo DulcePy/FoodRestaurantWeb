@@ -6,11 +6,11 @@
 
 ### Home page
 
-<img src="images/project/CapOne.png" alt="Home page" width="600">
+<img src="images/project/CapOne.png" alt="Home page" width="700">
 
 ### Speciality section
 <img src="images/project/foodSpeciality.png" alt="Speciality section
-" width="600">
+" width="700">
 
 ### Popular section
-<img src="images/project/mostPopularFood.png" alt="Popular food section" width="600">
+<img src="images/project/mostPopularFood.png" alt="Popular food section" width="700">
