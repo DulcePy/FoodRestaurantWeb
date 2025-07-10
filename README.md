@@ -1,6 +1,7 @@
 ## Restaurant Website
 <p>
-  Responsive website for a restaurant offering food and beverages. The site includes a menu section showcasing the available dishes and drinks, as well as a contact form for customer inquiries. </br> 
+  Responsive website for a restaurant offering food and beverages. The site includes a menu section showcasing the available dishes and drinks, as well as a contact form for customer inquiries. </br></br> 
+  The web was built with HTML, CSS and JavaScript. </br>
   The web is hosted on <a href="https://your-fav-restaurant.netlify.app/">Netlify</a>
 </p>
 
