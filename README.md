@@ -12,5 +12,11 @@
 <img src="images/project/foodSpeciality.png" alt="Speciality section
 " width="700">
 
+### Gallery section
+<img src="images/project/foodGallery.png" alt="Food gallery section" width="700">
+
 ### Popular section
 <img src="images/project/mostPopularFood.png" alt="Popular food section" width="700">
+
+### Contact section
+<img src="images/project/contactUs.png" alt="Contact section" width="700">
